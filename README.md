@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyan57&label=Profile%20views&color=0e75b6&style=flat" alt="karthikeyan57" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikeyan57" alt="karthikeyan57" /></a> </p>
 
+- 📫 How to reach me **karthikeyanckarthikeyanc146@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/k_a_r_t_h_i_146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_a_r_t_h_i_146" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
